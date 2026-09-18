@@ -1,0 +1,1863 @@
+{
+    "services": [
+        {
+            "id": "audit",
+            "icon": "audit",
+            "title": {
+                "ru": "Аудиторские услуги",
+                "uz": "Audit xizmatlari",
+                "en": "Audit services"
+            },
+            "text": {
+                "ru": "Независимый аудит по международным стандартам и абонентское (ежеквартальное) сопровождение отчётности.",
+                "uz": "Xalqaro standartlar bo'yicha mustaqil audit va hisobotni choraklik abonent xizmat asosida kuzatib borish.",
+                "en": "Independent audits under international standards, plus quarterly subscription-based support for your reporting."
+            },
+            "steps": {
+                "ru": [
+                    "Планирование проверки и оценка объёма работ",
+                    "Аудит по международным стандартам — для инвесторов и иностранных партнёров",
+                    "Абонентское обслуживание — ежеквартальная проверка и рекомендации",
+                    "Формирование официального аудиторского заключения"
+                ],
+                "uz": [
+                    "Tekshiruvni rejalashtirish va ish hajmini baholash",
+                    "Xalqaro standartlar bo'yicha audit — investorlar va xorijiy hamkorlar uchun",
+                    "Abonent xizmat — choraklik tekshiruv va tavsiyalar",
+                    "Rasmiy audit xulosasini shakllantirish"
+                ],
+                "en": [
+                    "Engagement planning and scope assessment",
+                    "Audit under international standards — for investors and foreign partners",
+                    "Subscription service — quarterly review and recommendations",
+                    "Issuing the official audit opinion"
+                ]
+            },
+            "result": {
+                "ru": "Официальное аудиторское заключение, а при абонентском обслуживании — годовая отчётность без существенных ошибок к моменту сдачи в налоговые органы.",
+                "uz": "Rasmiy audit xulosasi, abonent xizmat holatida esa — yillik hisobotning soliq organlariga topshirilguncha jiddiy xatolarsiz tayyor bo'lishi.",
+                "en": "A formal audit opinion — and, under the subscription service, annual reporting free of material errors by the time it is filed with the tax authorities."
+            },
+            "faq": {
+                "ru": [
+                    [
+                        "Что такое абонентское обслуживание?",
+                        "Вид аудиторской проверки, при котором наши специалисты ежеквартально проверяют отчётность, дают своевременные рекомендации и обеспечивают нормативно-правовое и налоговое консультирование в течение всего года."
+                    ],
+                    [
+                        "Проводите ли вы аудит по международным стандартам?",
+                        "Да, мы готовим заключения, которые признаются иностранными партнёрами и инвесторами при привлечении мирового капитала."
+                    ]
+                ],
+                "uz": [
+                    [
+                        "Abonent xizmat nima?",
+                        "Mutaxassislarimiz har chorakda hisobotni tekshiradigan, o'z vaqtida tavsiyalar beradigan va yil davomida normativ-huquqiy hamda soliq bo'yicha maslahat beradigan audit tekshiruvi turi."
+                    ],
+                    [
+                        "Xalqaro standartlar bo'yicha audit o'tkazasizmi?",
+                        "Ha, biz xorijiy hamkorlar va investorlar tomonidan tan olinadigan xulosalarni tayyorlaymiz."
+                    ]
+                ],
+                "en": [
+                    [
+                        "What is the subscription (abonent) service?",
+                        "A type of audit engagement in which our specialists review your reporting every quarter, give timely recommendations, and provide ongoing regulatory and tax advice throughout the year."
+                    ],
+                    [
+                        "Do you carry out audits under international standards?",
+                        "Yes — we prepare opinions recognised by foreign partners and investors when raising international capital."
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "ifrs",
+            "icon": "ifrs",
+            "title": {
+                "ru": "Трансформация в соответствии с МСФО",
+                "uz": "MHXS ga muvofiq transformatsiya",
+                "en": "IFRS transformation"
+            },
+            "text": {
+                "ru": "Подготовка и трансформация финансовой отчётности в соответствии с международными стандартами (МСФО) с учётом требований НСБУ и налогового законодательства.",
+                "uz": "Milliy hisob standartlari (MHSHS) va soliq qonunchiligi talablarini hisobga olgan holda moliyaviy hisobotni xalqaro standartlarga (MHXS) muvofiq tayyorlash va transformatsiya qilish.",
+                "en": "Preparing and transforming financial statements in line with International Financial Reporting Standards (IFRS), taking into account local accounting standards and tax legislation."
+            },
+            "steps": {
+                "ru": [
+                    "Анализ текущей отчётности, подготовленной по НСБУ",
+                    "Выявление расхождений с требованиями МСФО",
+                    "Трансформация отчётности с учётом всех особенностей и последних изменений МСФО",
+                    "Консультационная поддержка при внедрении МСФО в компании"
+                ],
+                "uz": [
+                    "MHSHS asosida tayyorlangan joriy hisobotni tahlil qilish",
+                    "MHXS talablaridan farqlarni aniqlash",
+                    "MHXSning barcha nozik jihatlari va so'nggi o'zgarishlarini hisobga olgan holda hisobotni transformatsiya qilish",
+                    "Kompaniyada MHXSni joriy etishda maslahat yordami"
+                ],
+                "en": [
+                    "Reviewing current reporting prepared under local standards",
+                    "Identifying gaps against IFRS requirements",
+                    "Transforming the statements, factoring in the latest IFRS updates",
+                    "Advisory support while IFRS is being implemented in the company"
+                ]
+            },
+            "result": {
+                "ru": "Финансовая отчётность, соответствующая международным стандартам и понятная иностранным партнёрам и инвесторам.",
+                "uz": "Xalqaro standartlarga mos va xorijiy hamkor hamda investorlarga tushunarli moliyaviy hisobot.",
+                "en": "Financial statements aligned with international standards and understandable to foreign partners and investors."
+            },
+            "faq": {
+                "ru": [
+                    [
+                        "Зачем компании нужна отчётность по МСФО?",
+                        "Для привлечения мирового капитала, осуществления инвестиционной деятельности и взаимовыгодного сотрудничества с международными партнёрами."
+                    ]
+                ],
+                "uz": [
+                    [
+                        "Kompaniyaga nima uchun MHXS bo'yicha hisobot kerak?",
+                        "Xalqaro kapitalni jalb qilish, investitsiya faoliyatini amalga oshirish va xalqaro hamkorlar bilan o'zaro manfaatli hamkorlik uchun."
+                    ]
+                ],
+                "en": [
+                    [
+                        "Why does a company need IFRS reporting?",
+                        "To attract international capital, carry out investment activity, and build mutually beneficial cooperation with international partners."
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "accounting",
+            "icon": "accounting",
+            "title": {
+                "ru": "Бухгалтерский консалтинг",
+                "uz": "Buxgalteriya konsalting xizmati",
+                "en": "Accounting consulting"
+            },
+            "text": {
+                "ru": "Комплексная поддержка бухгалтерских служб — от учётной политики и документооборота до восстановления учёта и подготовки отчётности.",
+                "uz": "Buxgalteriya xizmatlariga har tomonlama yordam — hisob siyosati va hujjat aylanishidan tortib, hisobni tiklash va hisobot tayyorlashgacha.",
+                "en": "Comprehensive support for accounting departments — from accounting policy and document workflow to restoring records and preparing reports."
+            },
+            "steps": {
+                "ru": [
+                    "Создание учётной политики и внутрифирменных стандартов учёта",
+                    "Разработка документооборота для внутренней и внешней отчётности",
+                    "Восстановление и ведение бухгалтерского учёта",
+                    "Составление квартальной и годовой отчётности",
+                    "Оценка систем внутреннего контроля и рекомендации по их совершенствованию",
+                    "Обучающие семинары для сотрудников бухгалтерских служб"
+                ],
+                "uz": [
+                    "Hisob siyosati va ichki buxgalteriya standartlarini ishlab chiqish",
+                    "Ichki va tashqi hisobot uchun hujjat aylanish tizimini yaratish",
+                    "Buxgalteriya hisobini tiklash va yuritish",
+                    "Choraklik va yillik hisobotni tayyorlash",
+                    "Ichki nazorat tizimini baholash va uni takomillashtirish bo'yicha tavsiyalar",
+                    "Buxgalteriya xodimlari uchun o'quv seminarlari"
+                ],
+                "en": [
+                    "Developing accounting policy and internal accounting standards",
+                    "Designing document workflows for internal and external reporting",
+                    "Restoring and maintaining bookkeeping records",
+                    "Preparing quarterly and annual reports",
+                    "Assessing internal control systems and recommending improvements",
+                    "Training seminars for accounting staff"
+                ]
+            },
+            "result": {
+                "ru": "Прозрачный, своевременный учёт и рациональный механизм подготовки отчётности, проверенной до сдачи в налоговые органы.",
+                "uz": "Shaffof, o'z vaqtidagi hisob va soliq organlariga topshirilishidan oldin tekshirilgan hisobotni tayyorlashning oqilona mexanizmi.",
+                "en": "Transparent, timely bookkeeping and a well-organised reporting process reviewed before filing with the tax authorities."
+            },
+            "faq": {
+                "ru": [
+                    [
+                        "Можно ли передать бухгалтерию полностью на аутсорс?",
+                        "Да, наши специалисты берут на себя восстановление и ведение учёта клиента, включая подготовку квартальной и годовой отчётности."
+                    ]
+                ],
+                "uz": [
+                    [
+                        "Buxgalteriyani to'liq autsorsingga berish mumkinmi?",
+                        "Ha, mutaxassislarimiz mijozning hisobini tiklash va yuritishni, jumladan choraklik va yillik hisobotni tayyorlashni o'z zimmasiga oladi."
+                    ]
+                ],
+                "en": [
+                    [
+                        "Can accounting be fully outsourced?",
+                        "Yes, our specialists take on restoring and maintaining your records, including preparing quarterly and annual reports."
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "tax",
+            "icon": "tax",
+            "title": {
+                "ru": "Налоговый консалтинг",
+                "uz": "Soliq konsalting xizmati",
+                "en": "Tax consulting"
+            },
+            "text": {
+                "ru": "Экспертиза налоговых обязательств, оптимизация налогообложения и постоянное консультирование по вопросам финансового и налогового законодательства.",
+                "uz": "Soliq majburiyatlari ekspertizasi, soliqqa tortishni optimallashtirish va moliyaviy hamda soliq qonunchiligi bo'yicha doimiy maslahat.",
+                "en": "Tax obligation review, tax optimisation, and ongoing advice on financial and tax legislation."
+            },
+            "steps": {
+                "ru": [
+                    "Экспертиза налоговых обязательств и анализ выбранной системы налогообложения",
+                    "Рекомендации по оптимизации налогового учёта",
+                    "Экспертиза бизнес-проекта — финансовый анализ инвестиционных и финансовых проектов",
+                    "Консультирование в режиме online по финансовым и налоговым вопросам"
+                ],
+                "uz": [
+                    "Soliq majburiyatlari ekspertizasi va tanlangan soliq tizimini tahlil qilish",
+                    "Soliq hisobini optimallashtirish bo'yicha tavsiyalar",
+                    "Biznes-loyiha ekspertizasi — investitsiya va moliyaviy loyihalarni moliyaviy tahlil qilish",
+                    "Moliyaviy va soliq masalalari bo'yicha onlayn maslahat"
+                ],
+                "en": [
+                    "Reviewing tax obligations and analysing the chosen taxation system",
+                    "Recommendations for optimising tax accounting",
+                    "Business-project appraisal — financial analysis of investment and financial projects",
+                    "Online consulting on financial and tax matters"
+                ]
+            },
+            "result": {
+                "ru": "Оптимизированная налоговая нагрузка, своевременное применение льгот и минимизация рисков ошибок при расчёте налогов.",
+                "uz": "Optimallashtirilgan soliq yuki, imtiyozlardan o'z vaqtida foydalanish va soliqlarni hisoblashda xatoliklar xavfini kamaytirish.",
+                "en": "An optimised tax burden, timely use of available tax benefits, and minimised risk of errors in tax calculations."
+            },
+            "faq": {
+                "ru": [
+                    [
+                        "Помогаете ли вы с выбором системы налогообложения?",
+                        "Да, мы анализируем выбранную систему налогообложения и даём рекомендации по её оптимизации с учётом действующего законодательства."
+                    ],
+                    [
+                        "Что входит в консультирование online?",
+                        "Постоянная консультационная поддержка клиентов по финансовому и налоговому законодательству через интернет, чтобы бухгалтерия оперативно получала ответы на актуальные вопросы."
+                    ]
+                ],
+                "uz": [
+                    [
+                        "Soliq tizimini tanlashda yordam berasizmi?",
+                        "Ha, biz tanlangan soliq tizimini tahlil qilamiz va amaldagi qonunchilikni hisobga olgan holda uni optimallashtirish bo'yicha tavsiyalar beramiz."
+                    ],
+                    [
+                        "Onlayn maslahat nimalarni o'z ichiga oladi?",
+                        "Mijozlarning buxgalteriya xizmati dolzarb savollarga tezkor javob olishi uchun moliyaviy va soliq qonunchiligi bo'yicha doimiy internet orqali maslahat."
+                    ]
+                ],
+                "en": [
+                    [
+                        "Do you help choose a tax system?",
+                        "Yes, we analyse the taxation system a company has chosen and give recommendations for optimising it under current legislation."
+                    ],
+                    [
+                        "What does online consulting include?",
+                        "Ongoing advisory support on financial and tax legislation delivered online, so your accounting team gets timely answers to pressing questions."
+                    ]
+                ]
+            }
+        }
+    ],
+    "industries": [
+        {
+            "key": "professional_scientific_technical",
+            "ru": "Научно-технические услуги",
+            "uz": "Ilmiy-texnik xizmatlar",
+            "en": "Scientific & technical services",
+            "icon": "consulting"
+        },
+        {
+            "key": "wholesale_retail_auto_repair",
+            "ru": "Торговля и авторемонт",
+            "uz": "Savdo va avto ta’mirlash",
+            "en": "Trade & vehicle repair",
+            "icon": "trade"
+        },
+        {
+            "key": "manufacturing",
+            "ru": "Обрабатывающая промышленность",
+            "uz": "Qayta ishlash sanoati",
+            "en": "Manufacturing",
+            "icon": "factory"
+        },
+        {
+            "key": "real_estate",
+            "ru": "Недвижимость",
+            "uz": "Ko‘chmas mulk",
+            "en": "Real estate",
+            "icon": "other"
+        },
+        {
+            "key": "accommodation_food",
+            "ru": "Гостиницы и питание",
+            "uz": "Mehmonxona va ovqatlanish",
+            "en": "Hospitality & food",
+            "icon": "food"
+        },
+        {
+            "key": "information_communication",
+            "ru": "Информация и связь",
+            "uz": "Axborot va aloqa",
+            "en": "Information and communication",
+            "icon": "it"
+        },
+        {
+            "key": "agriculture_forestry_fishing",
+            "ru": "Сельское и лесное хозяйство",
+            "uz": "Qishloq va o‘rmon xo‘jaligi",
+            "en": "Agriculture & forestry",
+            "icon": "other"
+        },
+        {
+            "key": "transportation_storage",
+            "ru": "Перевозка и хранение",
+            "uz": "Tashish va saqlash",
+            "en": "Transportation and storage",
+            "icon": "logistics"
+        },
+        {
+            "key": "administrative_support",
+            "ru": "Управление и вспомогательные услуги",
+            "uz": "Boshqaruv va yordamchi xizmatlar",
+            "en": "Administrative & support services",
+            "icon": "consulting"
+        },
+        {
+            "key": "finance_insurance",
+            "ru": "Финансы и страхование",
+            "uz": "Moliya va sug‘urta",
+            "en": "Finance & insurance",
+            "icon": "other"
+        },
+        {
+            "key": "education",
+            "ru": "Образование",
+            "uz": "Ta’lim",
+            "en": "Education",
+            "icon": "consulting"
+        },
+        {
+            "key": "electricity_gas_steam_air",
+            "ru": "Электро- и газоснабжение",
+            "uz": "Elektr va gaz ta’minoti",
+            "en": "Electricity & gas supply",
+            "icon": "energy"
+        },
+        {
+            "key": "construction",
+            "ru": "Строительство",
+            "uz": "Qurilish",
+            "en": "Construction",
+            "icon": "factory"
+        },
+        {
+            "key": "other_services",
+            "ru": "Прочие услуги",
+            "uz": "Boshqa xizmatlar",
+            "en": "Other services",
+            "icon": "consulting"
+        },
+        {
+            "key": "mining_quarrying",
+            "ru": "Горнодобывающая промышленность",
+            "uz": "Tog‘-kon sanoati",
+            "en": "Mining",
+            "icon": "factory"
+        }
+    ],
+    "featuredCompanies": [
+        {
+            "name": "KVARTS",
+            "fullName": "АО \"KVARTS\"",
+            "logo": "1e68c87cbedc8bdb.png"
+        },
+        {
+            "name": "COTTON LOGISTICS",
+            "fullName": "ООО \"COTTON LOGISTICS\"",
+            "logo": "14fb0a08e4a09ab8.png"
+        },
+        {
+            "name": "HYUNDAI UZBEKISTAN",
+            "fullName": "ООО \"MILK HOUSE\"",
+            "logo": "6c487f50d5df910a.png"
+        },
+        {
+            "name": "MSOFT",
+            "fullName": "СП ООО \"HYUNDAI UZBEKISTAN\"",
+            "logo": "ce0dddc902b76ffb.png"
+        },
+        {
+            "name": "HAVAS FOOD",
+            "fullName": "АО \"O'ZBEKEKSPERTIZA\"",
+            "logo": "1365d8efb628ba44.png"
+        },
+        {
+            "name": "GATTER GROUP",
+            "fullName": "ООО \"GATTER - GROUP\"",
+            "logo": "7ff750893b8fd33f.png"
+        },
+        {
+            "name": "MULTIPAY",
+            "fullName": "ООО \"MULTIPAY\"",
+            "logo": "04c40fceb0d25f6c.png"
+        },
+        {
+            "name": "O'ZBEKEKSPERTIZA",
+            "fullName": "СП ООО \"HAVAS FOOD\"",
+            "logo": "19a3528bdbb43ec8.png"
+        },
+        {
+            "name": "COMPACT TEXTILES YARN",
+            "fullName": "ООО \"COMPACT TEXTILES YARN\"",
+            "logo": "bb1392345a2468c4.png"
+        },
+        {
+            "name": "GIDROPROEKT",
+            "fullName": "\"GIDROPROEKT\" Aksiyadorlik jamiyati",
+            "logo": "a3cf9a07754d0979.png"
+        },
+        {
+            "name": "ASTANA MOTORS",
+            "fullName": "ИП ООО \"ASTANA MOTORS COMPANY\"",
+            "logo": "dbe86bde0a3a31d5.png"
+        },
+        {
+            "name": "O‘ZBEKISTON KABEL TELEVIDENIYASI",
+            "fullName": "\"Ozbekistan kabel televideniyasi\" MChJ",
+            "logo": "b15c4c55dc43a7d9.png"
+        },
+        {
+            "name": "DJIDALI",
+            "fullName": "ООО \"DJIDALI\"",
+            "logo": "65a497e481756589.png"
+        },
+        {
+            "name": "BRAND FACTORY",
+            "fullName": "\"BRAND FACTORY\" mas’uliyati cheklangan jamiyati",
+            "logo": "0641d072db22b4e0.png"
+        },
+        {
+            "name": "INDORAMA AGRO",
+            "fullName": "ИП ООО \"INDORAMA AGRO\"",
+            "logo": "abe1a0224b8fd206.png"
+        },
+        {
+            "name": "ASFARMA SAVDO",
+            "fullName": "ООО \"Asfarma savdo\"",
+            "logo": "80a535d6c10014cb.png"
+        },
+        {
+            "name": "TORGOVIY DOM LD",
+            "fullName": "ИП OOO TORGOVIY DOM LD",
+            "logo": "f1900663cd3a9487.png"
+        },
+        {
+            "name": "TAQSIM SOLUTION",
+            "fullName": "ООО \"TAQSIM SOLUTION\"",
+            "logo": "75628e76bf905877.png"
+        },
+        {
+            "name": "O‘ZBEKKO‘MIR",
+            "fullName": "\"O`ZBEKKO`MIR\" aksiyadorlik jamiyati",
+            "logo": "1cae97fffb4eec01.png"
+        },
+        {
+            "name": "PrimeBond",
+            "fullName": "MILK HOUSE",
+            "logo": "2b5594d9e298c785.png"
+        }
+    ],
+    "mergedIndustryLabels": {
+        "energy": {
+            "ru": "Энергетика",
+            "uz": "Energetika",
+            "en": "Energy"
+        },
+        "mfi": {
+            "ru": "МФИ",
+            "uz": "MFI (moliyaviy institut)",
+            "en": "MFI (financial institution)"
+        },
+        "microfinance": {
+            "ru": "Микрофинансы",
+            "uz": "Mikromoliya",
+            "en": "Microfinance"
+        },
+        "leasing": {
+            "ru": "Лизинг",
+            "uz": "Lizing",
+            "en": "Leasing"
+        },
+        "metallurgy": {
+            "ru": "Металлургия",
+            "uz": "Metallurgiya",
+            "en": "Metallurgy"
+        },
+        "catering": {
+            "ru": "Общепит",
+            "uz": "Umumiy ovqatlanish",
+            "en": "Food service"
+        },
+        "media": {
+            "ru": "СМИ",
+            "uz": "OAV",
+            "en": "Media"
+        },
+        "pharma": {
+            "ru": "Фармацевтика",
+            "uz": "Farmatsevtika",
+            "en": "Pharmaceuticals"
+        },
+        "state_company": {
+            "ru": "Госкомпания",
+            "uz": "Davlat korxonasi",
+            "en": "State enterprise"
+        }
+    },
+    "clientsByIndustry": {
+        "professional_scientific_technical": [
+            {
+                "name": "\"HIKVISION TASHKENT\" MChJ",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021
+                ]
+            },
+            {
+                "name": "\"SERTIFIKATSIYALASH VA KOMPYUTERLASHTIRISH MARKAZI\" DUK",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020
+                ]
+            },
+            {
+                "name": "\"SUVSANOATFUQAROLI\" MChJ",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "АО \"O'ZNEFTGAZQAZIBCHIQARISH\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"USKUNAQURISH VA ELEKROTEXNIK MAXSULOTLARINI SIFATINI SERTIFIKATLASH MARKAZI\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021
+                ]
+            },
+            {
+                "name": "\"NAVOIYEKSPERTIZA\" MChJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"SAMARQANDEKSPERTIZA\" MChJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "АО \"O'ZBEKEKSPERTIZA\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021
+                ]
+            },
+            {
+                "name": "DAVLAT KADASTRLARI PALATASINING BUXORO VILOYAT BOSHQARMASI",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2023
+                ]
+            },
+            {
+                "name": "ООО \"LUCH SIRIUS\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2024
+                ]
+            },
+            {
+                "name": "\"GIDROPROEKT\" Aksiyadorlik jamiyati",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"YOL-LOYIHA BYUROSI\"",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "Представительство АО \"INSTITUTE ORGENERGOSTROY\"",
+                "year": 2023,
+                "years": [
+                    2023
+                ]
+            },
+            {
+                "name": "ООО \"DIVISION DIGITAL AND GRAPHIC SOLUTIONS\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            }
+        ],
+        "wholesale_retail_auto_repair": [
+            {
+                "name": "ООО \"ALOKOZAY\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"ASIA DYESTUFF\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020
+                ]
+            },
+            {
+                "name": "ООО \"KROKUS GAZ SERVIS\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"MEGAPOLIS GLOBAL DISTRIBUTION\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"MINITEXINVEST LIZING\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"XIAN WEST BAISHUN\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"MUBORAK PAXTA TOZALASH\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"NISHON PAXTA TOZALASH \" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"O'ZBEKISTON PAXTA TOZALASH KORXONASI\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"PAXTAOBODA PAXTA TOZOLASH\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"QAMASHI PAXTA TOZALASH\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"SARDOBA PAXTA TOZALASH\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"YAKKABOG' PAXTA TOZALASH\" AJ",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "Акционерное Общество \"Beshkent Paxta Tozalash Aj\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "Акционерное Общество \"Chiroqchi Paxta Tozalash\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "Акционерное Общество \"Poytug' Paxta Tozalash\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "Акционерное Общество \"Xo'jaobod Paxta Tozalash \"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "АО \"BAXT PAXTATOZALASH\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "АО \"KASBI PAXTA TOZALASH\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "АО \"QO'QON PAXTA TOZALASH\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "ООО \"PAXTAKOR GOLD TEXTILI\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "\"HAVVO-TRADE-EXPORT\"MCHJ",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022
+                ]
+            },
+            {
+                "name": "ИП ООО \"DEUTSCHE AGRO\"",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            },
+            {
+                "name": "ООО \"ADLER GROUP DISTRIBUTION\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            },
+            {
+                "name": "ООО \"AMICO TASHKENT\"",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            },
+            {
+                "name": "ООО \"GATTER - GROUP\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"HAVVO GROUP\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2024
+                ]
+            },
+            {
+                "name": "СП ООО \"ASTANA MOTORS SILK WAY\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "СП ООО \"HAVAS FOOD\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"ASVAD-GROUP\"",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"COMPACT TEXTILES YARN\"",
+                "year": 2022,
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"HAVVO-AGRO-FOOD\"",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"HAVVO-NOBLE\"",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "ЧП \"VALID TRADING\"",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "\"BRAND FACTORY\" mas’uliyati cheklangan jamiyati",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "\"MK DIRECT\" MCHJ",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ИП ООО \"ASTANA MOTORS COMPANY\"",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"Asfarma savdo\"",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ИП OOO TORGOVIY DOM LD",
+                "year": 2025,
+                "years": [
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "СП ООО \"HYUNDAI UZBEKISTAN\"",
+                "year": 2026,
+                "years": [
+                    2026
+                ]
+            }
+        ],
+        "manufacturing": [
+            {
+                "name": "АО \"KVARTS\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021
+                ]
+            },
+            {
+                "name": "ООО \"ANTEY-STEEL\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"GLOBAL PETROCHEMICAL GROUP\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ИП ООО \"LUKBO TEKSTIL\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2022,
+                    2023,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"AXBOROT VA PEDAGOGIKA TEXNOLOGIYALARI INNOVATSION MARKAZI\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2022,
+                    2024,
+                    2025
+                ]
+            },
+            {
+                "name": "Дадамухамедов Хусан Раксиевич",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "\"ONIKS TASHKENT\" Mas`uliyati cheklangan jamiyat",
+                "year": 2023,
+                "years": [
+                    2023
+                ]
+            },
+            {
+                "name": "ИП ООО \"INDORAMA AGRO\"",
+                "year": 2023,
+                "years": [
+                    2023
+                ]
+            },
+            {
+                "name": "ООО \"TEXTIME\"",
+                "year": 2023,
+                "years": [
+                    2023
+                ]
+            },
+            {
+                "name": "СП ООО \"V L GALPERIN NOMIDAGI TOSHKENT TRUBA ZAVODI\"",
+                "year": 2024,
+                "years": [
+                    2024
+                ]
+            }
+        ],
+        "real_estate": [
+            {
+                "name": "ООО \"SPI AND OWT\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021,
+                    2022
+                ]
+            },
+            {
+                "name": "АО \"XALQARO HAMKORLIK MARKAZI\"",
+                "year": 2024,
+                "years": [
+                    2024
+                ]
+            }
+        ],
+        "accommodation_food": [
+            {
+                "name": "\"O`ZR PHLBMA QOSHIDAGI DELTA CITY XYTIM HUDUDIDA YANGI OBYEKT.QURISH VA ULARDAN FOYDALANISH DIR\" ДУК",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"ALFA BEST\"",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            }
+        ],
+        "information_communication": [
+            {
+                "name": "\"JAMILA SOFT\" MChJ",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021,
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"MEGA GROUP DESIGN\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020
+                ]
+            },
+            {
+                "name": "ООО \"MOBILE SOLUTIONS SERVICE\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021,
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"SIMPLE NETWORKING SOLUTIONS\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2020,
+                    2021,
+                    2022,
+                    2023,
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"MSOFT\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2022,
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"PLAY MOBILE\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"MULTIPAY\"",
+                "year": 2021,
+                "years": [
+                    2021,
+                    2022,
+                    2023,
+                    2024
+                ]
+            },
+            {
+                "name": "ООО \"PAYBOX\"",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            },
+            {
+                "name": "\"IJOD STUDIYASI\" mas’uliyati cheklangan jamiyati",
+                "year": 2022,
+                "years": [
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"GLOBAL BUSINESS SOLUTIONS\"",
+                "year": 2022,
+                "years": [
+                    2022,
+                    2023
+                ]
+            },
+            {
+                "name": "\"Ozbekistan kabel televideniyasi\" MChJ",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024
+                ]
+            },
+            {
+                "name": "ГУП «Национальный диспетчерский центр» при Министерстве энергетики",
+                "year": 2024,
+                "years": [
+                    2024
+                ]
+            },
+            {
+                "name": "ООО \"BETA SOFT\"",
+                "year": 2024,
+                "years": [
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "\"OCTOTELECOM\" MCHJ",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "OOO DOSKA",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"ACCELERATED BUSINESS CONSULTING\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"BUYURSIN SOLUTIONS\"",
+                "year": 2025,
+                "years": [
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"LINKTRADE\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"PAYLATER\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"STRATEGYCO\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"UNLOCKWARE IT SERVICES\"",
+                "year": 2025,
+                "years": [
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"ZAMONAVIY KOMMUNIKATSIYALAR\"",
+                "year": 2025,
+                "years": [
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"TAP-TAP\"",
+                "year": 2026,
+                "years": [
+                    2026
+                ]
+            },
+            {
+                "name": "ООО \"TAQSIM SOLUTION\"",
+                "year": 2026,
+                "years": [
+                    2026
+                ]
+            }
+        ],
+        "agriculture_forestry_fishing": [
+            {
+                "name": "\"ASL BAG'DOD TOLASI\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"BOG'DOD YANGI ZAMINI\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"BOG'I BOG'DOD UZUMLARI\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"ECO AGRO PRODUKT\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"ZAMIN BAG'DOD CHORVASI\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "\"Хамзахон-Агро инвест\" FX",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"MILK HOUSE\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "ООО \"DJIDALI\"",
+                "year": 2023,
+                "years": [
+                    2023,
+                    2024
+                ]
+            }
+        ],
+        "transportation_storage": [
+            {
+                "name": "ООО \"KIMYOTRANS\"",
+                "year": 2019,
+                "years": [
+                    2019,
+                    2021,
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ]
+            },
+            {
+                "name": "ООО \"FIRST DRY PORT TERMINAL\"",
+                "year": 2025,
+                "years": [
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "ИП ООО \"ASVAD LOGISTIC\"",
+                "year": 2026,
+                "years": [
+                    2026
+                ]
+            }
+        ],
+        "administrative_support": [
+            {
+                "name": "ООО \"ASIL SHARBAT\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"RADIUS TRAVEL\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ГУП \"INTERFORUM\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "ООО \"COTTON LOGISTICS\"",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "name": "\"BARAKA\" УНИВЕРСАЛЬНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            },
+            {
+                "name": "VISAMETRIC FE LLC",
+                "year": 2023,
+                "years": [
+                    2023
+                ]
+            }
+        ],
+        "finance_insurance": [
+            {
+                "name": "\"Mikromoliya Tashkiloti Factoring\" MChJ",
+                "year": 2020,
+                "years": [
+                    2020,
+                    2021,
+                    2022
+                ]
+            },
+            {
+                "name": "ООО \"NEW TECHNOLOGICAL SERVICES\"",
+                "year": 2025,
+                "years": [
+                    2025
+                ]
+            }
+        ],
+        "education": [
+            {
+                "name": "ООО \"IOSYSEDU\"",
+                "year": 2024,
+                "years": [
+                    2024,
+                    2025,
+                    2026
+                ]
+            }
+        ],
+        "electricity_gas_steam_air": [
+            {
+                "name": "АО \"O'ZBEKISTON MILLIY ELEKTR TARMOQLARI\"",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            },
+            {
+                "name": "АО \"YANGI ANGREN ISSIQLIK ELEKTR STANSIYASI\"",
+                "year": 2021,
+                "years": [
+                    2021
+                ]
+            }
+        ],
+        "construction": [
+            {
+                "name": "АО \"GIDROMAXSUSQURILISH\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            }
+        ],
+        "other_services": [
+            {
+                "name": "O'zbekiston aralash jang san'atlari assotsiatsiyasi",
+                "year": 2020,
+                "years": [
+                    2020
+                ]
+            }
+        ],
+        "mining_quarrying": [
+            {
+                "name": "\"O`ZBEKKO`MIR\" aksiyadorlik jamiyati",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            },
+            {
+                "name": "ООО \"OPERATSIONNAYA KOMPANIYA ZARUBEZHNEFTEGAZ-CENTRALNAYA AZIYA\"",
+                "year": 2019,
+                "years": [
+                    2019
+                ]
+            }
+        ]
+    },
+    "team": [
+        {
+            "id": "m01",
+            "service": "audit",
+            "name": "Хамдамов Бахтиёр Уктамович",
+            "nameLine1": "Хамдамов Бахтиёр",
+            "nameLine2": "Уктамович",
+            "role": {
+                "ru": "Генеральный директор, аудитор",
+                "uz": "Bosh direktor, auditor",
+                "en": "General Director, Auditor"
+            },
+            "photo": "222e44457d0b770c.png",
+            "bio": {
+                "ru": "Возглавляет компанию, победитель республиканского конкурса «Лучший аудитор 2021 года» (1 место).",
+                "uz": "Kompaniya rahbari, «Eng yaxshi auditor 2021» respublika tanlovi g'olibi (1-o'rin).",
+                "en": "Heads the firm; winner of the national «Best Auditor 2021» competition (1st place)."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2031)",
+                "CAP"
+            ],
+            "docs": [
+                {
+                    "src": "hamdamov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "hamdamov_cap.jpg",
+                    "label": "CAP"
+                },
+                {
+                    "src": "hamdamov_isa.jpg",
+                    "label": "Audit on ISA"
+                }
+            ]
+        },
+        {
+            "id": "m06",
+            "service": "accounting",
+            "name": "Жуманов Гулом Усмонович",
+            "nameLine1": "Жуманов Гулом",
+            "nameLine2": "Усмонович",
+            "role": {
+                "ru": "Аудитор, бухгалтер",
+                "uz": "Auditor, buxgalter",
+                "en": "Auditor, Accountant"
+            },
+            "photo": "244b5839c0ba6fce.png",
+            "bio": {
+                "ru": "Победитель республиканского конкурса «Лучший бухгалтер 2021 года» (1 место).",
+                "uz": "«Eng yaxshi buxgalter 2021» respublika tanlovi g'olibi (1-o'rin).",
+                "en": "Winner of the national «Best Accountant 2021» competition (1st place)."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2032)",
+                "Сертиф. проф. бухгалтер (SPB)"
+            ],
+            "docs": [
+                {
+                    "src": "jumanov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "jumanov_cpa.jpg",
+                    "label": "SPB"
+                },
+                {
+                    "src": "jumanov_isa.jpg",
+                    "label": "Audit on ISA"
+                }
+            ]
+        },
+        {
+            "id": "m04",
+            "service": "audit",
+            "name": "Назаров Шер Махкамович",
+            "nameLine1": "Назаров Шер",
+            "nameLine2": "Махкамович",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "adc6360b1c2c83ff.png",
+            "bio": {
+                "ru": "**ПРОФЕССИОНАЛЬНЫЙ ОПЫТ**\n\nШер Назаров обладает 24-летним профессиональным опытом в области аудита, бухгалтерского учёта, внутреннего контроля, финансового анализа и финансового менеджмента.\n\nСпециализируется на проведении аудиторских проверок предприятий различных отраслей экономики, трансформации финансовой отчётности в соответствии с МСФО, консультировании по вопросам налогообложения и руководстве службой внутреннего аудита.\n\n**КЛЮЧЕВОЙ ОПЫТ РАБОТЫ**\n\nС 2021 года работает аудитором в компании «Amulet Audit». Проводит аудиторские проверки и занимается трансформацией финансовой отчётности.\n\nВ 2016–2021 годах работал старшим аудитором в компании «Progress Audit». Участвовал в аудиторских проверках хозяйствующих субъектов различных отраслей экономики и консультировал клиентов по вопросам налогообложения.\n\nВ 2014–2021 годах руководил службой внутреннего аудита АО «Qurilishmashlizing». Осуществлял руководство службой, проводил ежеквартальные проверки деятельности компании и представлял Наблюдательному совету сводные отчёты.\n\nВ 2008–2015 годах работал помощником аудитора первой категории и аудитором в компании «PKF MAK ALYANS».\n\nВ 2007–2008 годах занимал должности исполнительного директора и главного бухгалтера Сырдарьинского филиала Национальной ассоциации бухгалтеров и аудиторов Узбекистана.\n\nВ 1997–2002 годах работал кассиром и бухгалтером.\n\n**ОБРАЗОВАНИЕ И КВАЛИФИКАЦИЯ**\n\nВ 2008 году получил степень магистра экономики в Ташкентском государственном экономическом университете по направлению «Экономика и региональная экономика».\n\nВ 2006 году получил степень бакалавра экономики в Гулистанском государственном университете.\n\nВ 1997 году окончил Гулистанский строительный техникум по специальности «Экономика и планирование».\n\nИмеет квалификацию CIPA — сертифицированного международного профессионального бухгалтера.\n\nИмеет сертификат CAP — Certified Accounting Practitioner.\n\nУспешно сдал профессиональные экзамены по финансовому и управленческому учёту, финансовому менеджменту, аудиту, налогообложению и праву.\n\n**ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ**\n\nВнутренний и внешний аудит, внутренний контроль, финансовый анализ, финансовый менеджмент, бухгалтерский учёт, налоговое законодательство Республики Узбекистан, МСФО и трансформация финансовой отчётности.\n\nУверенно работает с программами 1С 7.7 и 8.3, Microsoft Word, Microsoft Excel и Google Sheets.\n\n**ЗНАНИЕ ЯЗЫКОВ**\n\nУзбекский язык — родной.\n\nРусский язык — C1, продвинутый уровень.\n\nАнглийский язык — B1, средний уровень.",
+                "uz": "**KASBIY TAJRIBA**\n\nSher Nazarov audit, buxgalteriya hisobi, ichki nazorat, moliyaviy tahlil va moliyaviy boshqaruv sohalarida 24 yillik kasbiy tajribaga ega.\n\nU turli iqtisodiy tarmoqlardagi korxonalarda auditorlik tekshiruvlarini o‘tkazish, moliyaviy hisobotlarni MHXS talablariga muvofiq transformatsiya qilish, soliqqa tortish masalalari bo‘yicha maslahat berish va ichki audit xizmatini boshqarishga ixtisoslashgan.\n\n**ASOSIY ISH TAJRIBASI**\n\n2021-yildan buyon “Amulet Audit” kompaniyasida auditor sifatida faoliyat yuritadi. Auditorlik tekshiruvlarini o‘tkazish va moliyaviy hisobotlarni transformatsiya qilish bilan shug‘ullanadi.\n\n2016–2021-yillarda “Progress Audit” kompaniyasida katta auditor lavozimida ishlagan. Turli sohalardagi xo‘jalik yurituvchi subyektlarning auditorlik tekshiruvlarida qatnashgan va soliqqa tortish masalalari bo‘yicha maslahatlar bergan.\n\n2014–2021-yillarda “Qurilishmashlizing” aksiyadorlik jamiyatining ichki audit xizmati rahbari sifatida ishlagan. Ichki audit xizmatini boshqargan, kompaniya faoliyatini har chorakda tekshirgan va Kuzatuv kengashiga umumlashtirilgan hisobotlarni taqdim etgan.\n\n2008–2015-yillarda “PKF MAK ALYANS” kompaniyasida birinchi toifali auditor yordamchisi va auditor lavozimlarida ishlagan.\n\n2007–2008-yillarda O‘zbekiston Buxgalterlar va auditorlar milliy assotsiatsiyasining Sirdaryo filialida ijrochi direktor va bosh buxgalter sifatida faoliyat yuritgan.\n\n1997–2002-yillarda kassir va buxgalter lavozimlarida ishlagan.\n\n**TA’LIM VA MALAKA**\n\n2008-yilda Toshkent davlat iqtisodiyot universitetida iqtisodiyot va mintaqaviy iqtisodiyot yo‘nalishi bo‘yicha magistr darajasini olgan.\n\n2006-yilda Guliston davlat universitetida iqtisodiyot yo‘nalishi bo‘yicha bakalavr darajasini olgan.\n\n1997-yilda Guliston qurilish texnikumining iqtisodiyot va rejalashtirish yo‘nalishini tamomlagan.\n\nCIPA — sertifikatlangan xalqaro professional buxgalter dasturi bo‘yicha malakaga ega.\n\nCAP — Certified Accounting Practitioner sertifikatiga ega.\n\nMoliyaviy hisob, boshqaruv hisobi, moliyaviy menejment, audit, soliqlar va huquq bo‘yicha professional imtihonlarni muvaffaqiyatli topshirgan.\n\n**KASBIY KO‘NIKMALAR**\n\nIchki va tashqi audit, ichki nazorat, moliyaviy tahlil, moliyaviy boshqaruv, buxgalteriya hisobi, O‘zbekiston Respublikasi soliq qonunchiligi, MHXS va moliyaviy hisobotlarni transformatsiya qilish.\n\n1C 7.7 va 8.3, Microsoft Word, Microsoft Excel hamda Google Sheets dasturlaridan professional darajada foydalanadi.\n\n**TILLARNI BILISH**\n\nO‘zbek tili — ona tili.\n\nRus tili — C1, yuqori daraja.\n\nIngliz tili — B1, o‘rta daraja.",
+                "en": "**PROFESSIONAL EXPERIENCE**\n\nSher Nazarov has 24 years of professional experience in auditing, accounting, internal control, financial analysis and financial management.\n\nHe specialises in conducting audits of companies across various sectors, transforming financial statements in accordance with IFRS, providing tax advice and managing internal audit functions.\n\n**KEY EMPLOYMENT HISTORY**\n\nSince 2021, he has worked as an auditor at Amulet Audit. His responsibilities include conducting audits and transforming financial statements.\n\nFrom 2016 to 2021, he worked as a Senior Auditor at Progress Audit. He participated in audits of companies operating across various sectors and advised clients on taxation matters.\n\nFrom 2014 to 2021, he served as Head of Internal Audit at Qurilishmashlizing JSC. He managed the internal audit function, conducted quarterly reviews of the company’s activities and presented consolidated reports to the Supervisory Board.\n\nFrom 2008 to 2015, he worked at PKF MAK ALYANS as a First-Category Assistant Auditor and Auditor.\n\nFrom 2007 to 2008, he served as Executive Director and Chief Accountant of the Syrdarya branch of the National Association of Accountants and Auditors of Uzbekistan.\n\nFrom 1997 to 2002, he worked as a cashier and accountant.\n\n**EDUCATION AND QUALIFICATIONS**\n\nIn 2008, he obtained a master’s degree in Economics and Regional Economics from Tashkent State University of Economics.\n\nIn 2006, he obtained a bachelor’s degree in Economics from Gulistan State University.\n\nIn 1997, he graduated from Gulistan Construction Technical College with a qualification in Economics and Planning.\n\nHe holds the CIPA qualification as a Certified International Professional Accountant.\n\nHe holds the CAP — Certified Accounting Practitioner certificate.\n\nHe has successfully completed professional examinations in financial accounting, management accounting, financial management, auditing, taxation and law.\n\n**PROFESSIONAL SKILLS**\n\nInternal and external auditing, internal control, financial analysis, financial management, accounting, tax legislation of the Republic of Uzbekistan, IFRS and financial statement transformation.\n\nProficient in 1C 7.7 and 8.3, Microsoft Word, Microsoft Excel and Google Sheets.\n\n**LANGUAGES**\n\nUzbek — Native.\n\nRussian — C1, advanced.\n\nEnglish — B1, intermediate."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (бессрочно)",
+                "CAP",
+                "CIPA"
+            ],
+            "docs": [
+                {
+                    "src": "nazarov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "nazarov_cap.jpg",
+                    "label": "CAP"
+                },
+                {
+                    "src": "nazarov_cipa.jpg",
+                    "label": "CIPA"
+                }
+            ]
+        },
+        {
+            "id": "m07",
+            "service": "audit",
+            "name": "Бурханов Ахмаджон Мухаммадаминович",
+            "nameLine1": "Бурханов Ахмаджон",
+            "nameLine2": "Мухаммадаминович",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "b11daa4a1489f6ca.png",
+            "bio": {
+                "ru": "**ПОДТВЕРЖДЁННАЯ КВАЛИФИКАЦИЯ**\n\nКвалификационный сертификат аудитора Республики Узбекистан.\n\nСертификат CAP — Certified Accounting Practitioner.\n\nУспешная сдача дисциплины «Финансовый учёт 2» по программе CIPA.\n\nВысшее образование по направлению «Бухгалтерский учёт и аудит» в Ташкентском государственном экономическом университете.\n\n**ПРОФЕССИОНАЛЬНЫЙ ОПЫТ**\n\nБолее 15 лет опыта в области бухгалтерского учёта, внешнего и внутреннего аудита, финансового анализа и финансового менеджмента.\n\nИмеет практический опыт работы в энергетике, угольной промышленности, строительстве и аудиторских проектах. Специализируется на аудите и анализе финансово-хозяйственной деятельности, внутреннем контроле, подготовке финансовой отчётности и оценке выполнения бизнес-планов. МСФО и трансформация финансовой отчётности.\n\n**КЛЮЧЕВОЙ ОПЫТ РАБОТЫ**\n\nВ 2007–2011 годах обучался в Ташкентском государственном экономическом университете.\n\nВ 2012–2014 годах проходил обучение в магистратуре Ташкентского государственного экономического университета.\n\nВ 2011–2016 годах работал в АО «Узбеккумир» специалистом по финансовым вопросам и бухгалтером по инвестициям.\n\nС 2016 года работает аудитором в компании «Amulet Audit».\n\n**ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ**\n\nВнутренний аудит, финансовый анализ, финансовый менеджмент, бухгалтерский учёт, 1С, MS Office, МСФО и трансформация финансовой отчётности.",
+                "uz": "**TASDIQLANGAN MALAKA**\n\nO‘zbekiston Respublikasi auditorining malaka sertifikati.\n\nCAP — Certified Accounting Practitioner sertifikati.\n\nCIPA dasturi bo‘yicha “Moliyaviy hisob 2” fanidan muvaffaqiyatli natija.\n\nToshkent davlat iqtisodiyot universitetining “Buxgalteriya hisobi va audit” yo‘nalishi bo‘yicha oliy ma’lumotga ega.\n\n**KASBIY TAJRIBA**\n\nBuxgalteriya hisobi, tashqi va ichki audit, moliyaviy tahlil hamda moliyaviy boshqaruv sohalarida 15 yildan ortiq tajribaga ega.\n\nEnergetika, ko‘mir sanoati, qurilish va auditorlik loyihalarida amaliy tajriba orttirgan. Audit va moliyaviy-xo‘jalik faoliyatini tahlil qilish, ichki nazorat, moliyaviy hisobotlarni tayyorlash hamda biznes-rejalarning bajarilishini baholashga ixtisoslashgan. MS Office, MHXS va moliyaviy hisobotlarni transformatsiya qilish.\n\n**ASOSIY ISH TAJRIBASI**\n\n2007–2011-yillarda Toshkent davlat iqtisodiyot universitetida tahsil olgan.\n\n2012–2014-yillarda Toshkent davlat iqtisodiyot universitetida magistratura bosqichida tahsil olgan.\n\n2011–2016-yillarda “O‘zbekko‘mir” aksiyadorlik jamiyatida moliyaviy masalalar bo‘yicha mutaxassis va investitsiyalar bo‘yicha buxgalter lavozimlarida ishlagan.\n\n2016-yildan buyon “Amulet Audit” kompaniyasida auditor sifatida faoliyat yuritadi.\n\n**KASBIY KO‘NIKMALAR**\n\nIchki audit, moliyaviy tahlil, moliyaviy boshqaruv, buxgalteriya hisobi, 1C, MS Office, MHXS va moliyaviy hisobotlarni transformatsiya qilish.",
+                "en": "**PROFESSIONAL QUALIFICATIONS**\n\nHolder of a qualification certificate as an auditor of the Republic of Uzbekistan.\n\nCAP — Certified Accounting Practitioner.\n\nSuccessfully completed Financial Accounting 2 under the CIPA programme.\n\nHolds a degree in Accounting and Auditing from Tashkent State University of Economics.\n\n**PROFESSIONAL EXPERIENCE**\n\nMore than 15 years of experience in accounting, external and internal auditing, financial analysis and financial management.\n\nHas practical experience in the energy sector, coal industry, construction and audit projects. Specialises in auditing and analysing financial and operational activities, internal control, financial reporting and evaluating the implementation of business plans. MS Office, IFRS and financial statement transformation.\n\n**KEY EMPLOYMENT HISTORY**\n\nStudied at Tashkent State University of Economics from 2007 to 2011.\n\nCompleted a master’s degree at Tashkent State University of Economics from 2012 to 2014.\n\nFrom 2011 to 2016, worked at Uzbekkumir JSC as a financial specialist and investment accountant.\n\nHas worked as an auditor at Amulet Audit since 2016.\n\n**PROFESSIONAL SKILLS**\n\nInternal auditing, financial analysis, financial management, accounting, 1C, MS Office, IFRS and financial statement transformation."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2032)",
+                "CAP"
+            ],
+            "docs": [
+                {
+                    "src": "burxanov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "burxanov_cap.jpg",
+                    "label": "CAP"
+                }
+            ]
+        },
+        {
+            "id": "m02",
+            "service": "audit",
+            "name": "Мизинец Татьяна Владимировна",
+            "nameLine1": "Мизинец Татьяна",
+            "nameLine2": "Владимировна",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=600&auto=format&fit=crop",
+            "bio": {
+                "ru": "Специализируется на отчётности по МСФО, обладатель международной квалификации CIPA.",
+                "uz": "MHXS bo'yicha hisobotga ixtisoslashgan, CIPA xalqaro malakasi egasi.",
+                "en": "Specialises in IFRS reporting, holder of the CIPA international qualification."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2033)",
+                "CAP",
+                "CIPA"
+            ],
+            "docs": [
+                {
+                    "src": "mizinets_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "mizinets_cap.jpg",
+                    "label": "CAP"
+                },
+                {
+                    "src": "mizinets_cipa.jpg",
+                    "label": "CIPA"
+                }
+            ]
+        },
+        {
+            "id": "m05",
+            "service": "audit",
+            "name": "Ахмедов Нодир Ботирович",
+            "nameLine1": "Ахмедов Нодир",
+            "nameLine2": "Ботирович",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "fa41c5b42af0dcc8.jpg",
+            "bio": {
+                "ru": "**Подтвержденная квалификация**\n\nСертифицированный аудитор Республики Узбекистан.\n\nОбладатель международного сертификата CAP.\n\nУспешно сдал экзамены CIPA по дисциплинам «Финансовый учет 2» и «Управленческий учет 2».\n\nОкончил Ташкентский финансовый институт по направлению «Бухгалтерский учет и аудит».\n\n**Опыт работы**\n\nНодир Ахмедов имеет более 15 лет профессионального опыта в области бухгалтерского учета, внешнего и внутреннего аудита, финансового анализа и финансового управления.\n\nОбладает практическим опытом работы в энергетической, угольной и строительной отраслях. Специализируется на анализе финансово-хозяйственной деятельности, оценке систем внутреннего контроля, подготовке финансовой отчетности и разработке бизнес-планов.\n\n**Трудовая деятельность**\n\nС 2025 года — начальник службы внутреннего аудита АО «Янги Ангрен ИЭС».\n\nС 2015 года — внутренний аудитор АО «Узтрансгаз».\n\n2020–2025 годы — главный бухгалтер ООО «Инновационный центр информационных и педагогических технологий».\n\nС 2025 года — заместитель генерального директора и аудитор ООО «AMULET-AUDIT».\n\n2013–2019 годы — аудитор ООО «Real Audit Invest».\n\n2010–2012 годы — главный бухгалтер филиала капитального строительства АО «Узбекуголь».\n\n2007–2009 годы — ведущий бухгалтер и специалист по внутреннему аудиту АО «Узбекуголь».\n\n**Профессиональные навыки**\n\nВнутренний аудит.\n\nФинансовый анализ и финансовое управление.\n\nБухгалтерский учет и финансовая отчетность.\n\nРабота с программой 1С.\n\nУверенное владение программами Microsoft Office.",
+                "uz": "**Tasdiqlangan malaka**\n\nO‘zbekiston Respublikasi sertifikatlangan auditori.\n\nCAP xalqaro sertifikati sohibi.\n\nCIPA dasturining “Moliyaviy hisob 2” va “Boshqaruv hisobi 2” fanlari bo‘yicha imtihonlarini muvaffaqiyatli topshirgan.\n\nToshkent moliya institutining “Buxgalteriya hisobi va audit” yo‘nalishini tamomlagan.\n\n**Ish tajribasi**\n\nNodir Ahmedov buxgalteriya hisobi, tashqi va ichki audit, moliyaviy tahlil hamda moliyaviy boshqaruv sohalarida 15 yildan ortiq professional tajribaga ega.\n\nEnergetika, ko‘mir va qurilish sohalarida amaliy tajribaga ega. Moliyaviy-xo‘jalik faoliyatini tahlil qilish, ichki nazorat tizimlarini baholash, moliyaviy hisobotlarni tayyorlash va biznes-rejalar ishlab chiqishga ixtisoslashgan.\n\n**Mehnat faoliyati**\n\n2025-yildan — “Yangi Angren IES” AJ Ichki audit xizmati boshlig‘i.\n\n2015-yildan — “O‘ztransgaz” AJ ichki auditori.\n\n2020–2025-yillar — “Innovatsion axborot va pedagogik texnologiyalar markazi” MChJ bosh hisobchisi.\n\n2025-yildan — “AMULET-AUDIT” MChJ bosh direktor o‘rinbosari va auditori.\n\n2013–2019-yillar — “Real Audit Invest” MChJ auditori.\n\n2010–2012-yillar — “O‘zbekko‘mir” AJ kapital qurilish filiali bosh hisobchisi.\n\n2007–2009-yillar — “O‘zbekko‘mir” AJ yetakchi hisobchisi va ichki audit mutaxassisi.\n\n**Professional ko‘nikmalar**\n\nIchki audit.\n\nMoliyaviy tahlil va moliyaviy boshqaruv.\n\nBuxgalteriya hisobi va moliyaviy hisobot.\n\n1C dasturida ishlash.\n\nMicrosoft Office dasturlaridan professional foydalanish.",
+                "en": "**Professional Qualifications**\n\nCertified Auditor of the Republic of Uzbekistan.\n\nHolder of the international CAP certification.\n\nSuccessfully passed the CIPA examinations in Financial Accounting 2 and Management Accounting 2.\n\nGraduated from the Tashkent Financial Institute with a degree in Accounting and Audit.\n\n**Professional Experience**\n\nNodir Akhmedov has more than 15 years of professional experience in accounting, external and internal audit, financial analysis, and financial management.\n\nHe has practical experience in the energy, coal, and construction sectors. His expertise includes financial and operational analysis, evaluation of internal control systems, preparation of financial statements, and development of business plans.\n\n**Employment History**\n\nSince 2025 — Head of the Internal Audit Department at JSC “Yangi Angren TPP”.\n\nSince 2015 — Internal Auditor at JSC “Uztransgaz”.\n\n2020–2025 — Chief Accountant at LLC “Innovative Centre for Information and Pedagogical Technologies”.\n\nSince 2025 — Deputy General Director and Auditor at LLC “AMULET-AUDIT”.\n\n2013–2019 — Auditor at LLC “Real Audit Invest”.\n\n2010–2012 — Chief Accountant of the Capital Construction Branch at JSC “Uzbekcoal”.\n\n2007–2009 — Lead Accountant and Internal Audit Specialist at JSC “Uzbekcoal”.\n\n**Professional Skills**\n\nInternal auditing.\n\nFinancial analysis and financial management.\n\nAccounting and financial reporting.\n\nProficiency in 1C accounting software.\n\nAdvanced knowledge of Microsoft Office applications."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2028)"
+            ],
+            "docs": [
+                {
+                    "src": "axmedov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                }
+            ]
+        },
+        {
+            "id": "m16",
+            "service": "audit",
+            "name": "Курбонов Хусанбой Рустамжон угли",
+            "nameLine1": "Курбонов Хусанбой",
+            "nameLine2": "Рустамжон угли",
+            "role": {
+                "ru": "Ассистент аудитора",
+                "uz": "Auditor yordamchisi",
+                "en": "Audit Assistant"
+            },
+            "photo": "b06dc322445b5c05.png",
+            "bio": {
+                "ru": "Молодой и перспективный специалист, недавно окончивший институт. Активно участвует в аудиторских проверках и подготовке заключений для клиентов компании, проявляя внимательность к деталям и стремление к профессиональному росту.",
+                "uz": "Institutni yaqinda tamomlagan, istiqbolli yosh mutaxassis. Kompaniya mijozlari uchun audit tekshiruvlari va xulosalar tayyorlashda faol ishtirok etib, o'z sohasida tez rivojlanmoqda.",
+                "en": "A promising young specialist who recently graduated from the institute. He actively takes part in audit engagements and the preparation of client reports, showing strong attention to detail and a real drive to grow professionally."
+            },
+            "certs": [],
+            "docs": []
+        },
+        {
+            "id": "m03",
+            "service": "tax",
+            "name": "Хужабеков Низомиддин Бегбутаевич",
+            "nameLine1": "Хужабеков Низомиддин",
+            "nameLine2": "Бегбутаевич",
+            "role": {
+                "ru": "Аудитор, налоговый консультант",
+                "uz": "Auditor, soliq maslahatchisi",
+                "en": "Auditor, Tax Consultant"
+            },
+            "photo": "d5fc793e6e4610a0.jpg",
+            "bio": {
+                "ru": "**Подтверждённая квалификация**\n\nКандидат экономических наук.\n\nОбладатель диплома Ассоциации дипломированных сертифицированных бухгалтеров (ACCA) по международной финансовой отчётности (DipIFR).\n\nСертифицированный аудитор.\n\nСертифицированный налоговый консультант.\n\n**Опыт работы**\n\nХужабеков Низомиддин является аудитором ООО «Амулет Аудит».\n\nОсновными направлениями его профессиональной деятельности являются трансформация финансовой отчётности в соответствии с МСФО и проведение аудита по Международным стандартам аудита (МСА).\n\nНизомиддин имеет около 10 лет опыта работы в PwC Uzbekistan в качестве аудитора и консультанта по вопросам МСФО.\n\nДо работы в PwC Uzbekistan он более 10 лет работал в Министерстве финансов — в Управлении методологии бухгалтерского учёта и аудита, в последние годы занимая должность заместителя начальника управления.\n\nАудиторский опыт Низомиддина охватывает финансовый сектор, включая банки и лизинговые компании, энергетику, а также предприятия промышленности и производства товаров народного потребления.\n\nВ числе аудированных им финансовых отчётностей по МСФО — отчётности таких предприятий, как АО «Узбекэнерго» и АО «Uzbekleasing International A.O.».\n\nНизомиддин также отвечал за проведение аудита Центрального банка Республики Узбекистан и участвовал в налоговых аудитах ряда коммерческих банков и промышленных предприятий.\n\nКроме того, он имеет опыт участия в проектах по разработке учётной политики для производственных, энергетических и нефтегазовых предприятий Узбекистана.",
+                "uz": "**Tasdiqlangan malaka**\n\nIqtisod fanlari nomzodi.\n\nXalqaro moliyaviy hisobot bo‘yicha Diplomlangan sertifikatlangan buxgalterlar assotsiatsiyasi (ACCA) diplomi sohibi (DipIFR).\n\nSertifikatlangan auditor.\n\nSertifikatlangan soliq maslahatchisi.\n\n**Ish tajribasi**\n\nXo‘jabekov Nizomiddin “Amulet Audit” MChJda auditor sifatida faoliyat yuritadi.\n\nUning asosiy mutaxassislik yo‘nalishlari moliyaviy hisobotlarni MHXS talablariga muvofiq transformatsiya qilish hamda Xalqaro audit standartlari (XAS) asosida audit o‘tkazishdan iborat.\n\nNizomiddin PwC Uzbekistan kompaniyasida auditor va MHXS masalalari bo‘yicha maslahatchi sifatida qariyb 10 yillik ish tajribasiga ega.\n\nPwC Uzbekistan kompaniyasida ishlashidan avval u O‘zbekiston Respublikasi Moliya vazirligining Buxgalteriya hisobi va audit metodologiyasi boshqarmasida 10 yildan ortiq faoliyat yuritgan. So‘nggi yillarda boshqarma boshlig‘i o‘rinbosari lavozimida ishlagan.\n\nNizomiddinning auditorlik tajribasi moliya sektori, jumladan banklar va lizing kompaniyalari, energetika sohasi, sanoat korxonalari hamda xalq iste’moli mahsulotlarini ishlab chiqaruvchi tashkilotlarni qamrab oladi.\n\nU MHXS bo‘yicha “O‘zbekenergo” AJ va “Uzbekleasing International A.O.” AJ kabi yirik korxonalarning moliyaviy hisobotlarini audit qilishda qatnashgan.\n\nShuningdek, Nizomiddin O‘zbekiston Respublikasi Markaziy banki auditini o‘tkazish uchun mas’ul bo‘lgan hamda qator tijorat banklari va sanoat korxonalarining soliq auditlarida ishtirok etgan.\n\nBundan tashqari, u O‘zbekistondagi ishlab chiqarish, energetika va neft-gaz sohasi korxonalari uchun hisob siyosatini ishlab chiqish loyihalarida qatnashish tajribasiga ega.",
+                "en": "**Professional Qualifications**\n\nCandidate of Economic Sciences.\n\nHolder of the Association of Chartered Certified Accountants (ACCA) Diploma in International Financial Reporting (DipIFR).\n\nCertified Auditor.\n\nCertified Tax Consultant.\n\n**Professional Experience**\n\nNizomiddin Khujabekov works as an auditor at Amulet Audit LLC.\n\nHis principal areas of expertise include the transformation of financial statements in accordance with International Financial Reporting Standards (IFRS) and the performance of audits under International Standards on Auditing (ISA).\n\nNizomiddin has approximately 10 years of experience at PwC Uzbekistan, where he worked as an auditor and IFRS consultant.\n\nBefore joining PwC Uzbekistan, he worked for more than 10 years at the Ministry of Finance in the Department of Accounting and Auditing Methodology. During his final years there, he served as Deputy Head of the Department.\n\nNizomiddin’s audit experience covers the financial sector, including banks and leasing companies, the energy sector, industrial enterprises, and consumer goods manufacturers.\n\nThe IFRS financial statements he has audited include those of major companies such as Uzbekenergo JSC and Uzbekleasing International A.O. JSC.\n\nNizomiddin was also responsible for conducting the audit of the Central Bank of the Republic of Uzbekistan and participated in tax audits of several commercial banks and industrial enterprises.\n\nIn addition, he has participated in projects involving the development of accounting policies for manufacturing, energy, and oil and gas companies in Uzbekistan."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2032)",
+                "Налоговый консультант РУз",
+                "CAP"
+            ],
+            "docs": [
+                {
+                    "src": "xujabekov_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "xujabekov_cap.jpg",
+                    "label": "CAP"
+                },
+                {
+                    "src": "xujabekov_tax.jpg",
+                    "label": "Налоговый консультант"
+                }
+            ]
+        },
+        {
+            "id": "m08",
+            "service": "audit",
+            "name": "Тулаев Мирзакул Саламович",
+            "nameLine1": "Тулаев Мирзакул",
+            "nameLine2": "Саламович",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600&auto=format&fit=crop&sat=-20",
+            "bio": {
+                "ru": "Проводит аудит финансовой отчётности и инвентаризацию активов клиентов.",
+                "uz": "Mijozlarning moliyaviy hisoboti auditini va aktivlar inventarizatsiyasini o'tkazadi.",
+                "en": "Performs financial statement audits and asset inventory checks for clients."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2027)",
+                "CAP"
+            ],
+            "docs": [
+                {
+                    "src": "tulaev_audit.jpg",
+                    "label": "Аттестат аудитора"
+                },
+                {
+                    "src": "tulaev_cap.jpg",
+                    "label": "CAP"
+                }
+            ]
+        },
+        {
+            "id": "m09",
+            "service": "audit",
+            "name": "Ким Марта Еннамовна",
+            "nameLine1": "Ким Марта",
+            "nameLine2": "Еннамовна",
+            "role": {
+                "ru": "Аудитор",
+                "uz": "Auditor",
+                "en": "Auditor"
+            },
+            "photo": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=600&auto=format&fit=crop",
+            "bio": {
+                "ru": "Участвует в аудиторских проверках и подготовке заключений для клиентов компании.",
+                "uz": "Kompaniya mijozlari uchun audit tekshiruvlari va xulosalar tayyorlashda ishtirok etadi.",
+                "en": "Takes part in audit engagements and the preparation of client reports."
+            },
+            "certs": [
+                "Аттестат аудитора РУз (действ. до 2029)"
+            ],
+            "docs": [
+                {
+                    "src": "kim_audit.jpg",
+                    "label": "Аттестат аудитора"
+                }
+            ]
+        },
+        {
+            "id": "m12",
+            "service": "tax",
+            "name": "Саидова Дилором Бахтияровна",
+            "nameLine1": "Саидова Дилором",
+            "nameLine2": "Бахтияровна",
+            "role": {
+                "ru": "Налоговый консультант",
+                "uz": "Soliq maslahatchisi",
+                "en": "Tax Consultant"
+            },
+            "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop&sat=-20",
+            "bio": {
+                "ru": "Консультирует клиентов по вопросам налогообложения.",
+                "uz": "Mijozlarga soliq masalalari bo'yicha maslahat beradi.",
+                "en": "Advises clients on taxation matters."
+            },
+            "certs": [
+                "Налоговый консультант РУз",
+                "CAP"
+            ],
+            "docs": [
+                {
+                    "src": "saidova_tax.jpg",
+                    "label": "Налоговый консультант"
+                },
+                {
+                    "src": "saidova_cap.jpg",
+                    "label": "CAP"
+                }
+            ]
+        },
+        {
+            "id": "item-1789730748013",
+            "service": "audit",
+            "name": "БУ ЕРДА СИЗ БЎЛИШИНГИЗ МУМКИН)",
+            "nameLine1": "БУ ЕРДА СИЗ БЎЛИШИНГИЗ",
+            "nameLine2": "МУМКИН)",
+            "role": {
+                "uz": "Jamoamizga qo‘shiling",
+                "ru": "Присоединяйтесь к нашей команде",
+                "en": "Join our team"
+            },
+            "photo": "7637bd34e4f87985.png",
+            "bio": {
+                "uz": "**Jamoamizning bir qismiga aylaning**\n\nBiz o‘z sohasini yaxshi biladigan, mas’uliyatli va rivojlanishga intiladigan mutaxassislar bilan hamkorlik qilishga doimo tayyormiz.\n\nAgar siz audit, buxgalteriya, moliya, soliq, konsalting, axborot texnologiyalari yoki kompaniyamiz faoliyatiga yaqin boshqa yo‘nalishda tajribaga ega bo‘lsangiz, o‘zingiz haqingizdagi ma’lumotlarni bizga yuboring.\n\nNomzodning tajribasi, bilimlari va kasbiy yo‘nalishi ko‘rib chiqilgandan so‘ng, mos imkoniyat mavjud bo‘lsa, kompaniyamiz vakillari u bilan bog‘lanadi.",
+                "ru": "**Станьте частью нашей команды**\n\nМы всегда открыты к сотрудничеству с ответственными специалистами, которые хорошо знают своё дело и стремятся к профессиональному развитию.\n\nЕсли у вас есть опыт в сфере аудита, бухгалтерского учёта, финансов, налогообложения, консалтинга, информационных технологий или в другом направлении, связанном с деятельностью нашей компании, отправьте нам информацию о себе.\n\nПосле рассмотрения опыта, знаний и профессионального направления кандидата представители нашей компании свяжутся с ним при наличии подходящей возможности.",
+                "en": "**Become part of our team**\n\nWe are always open to working with responsible professionals who understand their field and are committed to continuous development.\n\nIf you have experience in auditing, accounting, finance, taxation, consulting, information technology or another field related to our company’s activities, please send us information about yourself.\n\nAfter reviewing the candidate’s experience, knowledge and professional background, our representatives will contact them if a suitable opportunity is available."
+            },
+            "certs": [],
+            "docs": []
+        }
+    ]
+}

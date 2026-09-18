@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Amulet Audit — Независимый аудит, комплаенс и консалтинг</title>
+<meta name="description" content="Amulet Audit — независимый аудит, управление рисками, комплаенс и консалтинг для устойчивого развития вашего бизнеса.">
+<link rel="icon" type="image/png" href="logo03.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=22">
+<link rel="stylesheet" href="feature-updates.css?v=11">
+</head>
+<body>
+
+<header class="site-header" id="header">
+  <div class="container">
+    <a href="#top" class="brand">
+      <img src="logo01.png" alt="Amulet Audit" class="brand-mark">
+    </a>
+
+    <nav class="main-nav" id="mainNav">
+      <ul>
+        <li><a href="#about" data-i18n="nav.about">О компании</a></li>
+        <li><a href="#services" data-i18n="nav.services">Услуги</a></li>
+        <li><a href="#industries" data-i18n="nav.industries">Отрасли</a></li>
+        <li><a href="#team" data-i18n="nav.team">Наша команда</a></li>
+        <li><a href="#contact" data-i18n="nav.contacts">Контакты</a></li>
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      <div class="lang-switch" id="langSwitch">
+        <button id="langBtn" aria-haspopup="true" aria-expanded="false">
+          <span id="langCurrent">RU</span>
+          <svg viewBox="0 0 12 8" fill="none"><path d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="1.6"/></svg>
+        </button>
+        <div class="lang-menu" role="menu">
+          <button data-lang="ru" class="is-active">RU — Русский</button>
+          <button data-lang="uz">UZ — O'zbekcha</button>
+          <button data-lang="en">EN — English</button>
+        </div>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Меню" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div id="top"></div>
+
+<!-- ============ HERO ============ -->
+<section class="hero" id="home">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero-content reveal">
+      <h1 data-i18n="hero.title">ЗАЩИЩАЕМ <span class="accent">ЦЕННОСТЬ</span>.<br>СОЗДАЁМ УВЕРЕННОСТЬ.</h1>
+      <p data-i18n="hero.text">Независимый аудит, управление рисками, комплаенс и консультации для устойчивого развития вашего бизнеса.</p>
+      <div class="hero-cta">
+        <a href="#contact" class="btn btn-gold" data-i18n="hero.cta1">Связаться с нами</a>
+        <a href="#services" class="btn btn-outline" data-i18n="hero.cta2">Наши услуги</a>
+      </div>
+    </div>
+  </div>
+
+  <a href="#services" class="hero-info-card" id="heroServiceInfo" aria-label="Перейти к разделу Услуги">
+    <div class="hero-info-eyebrow" data-i18n="nav.services">Услуги</div>
+    <div class="hero-info-index" id="heroServiceIndex">01</div>
+    <div class="hero-info-body">
+      <h3 id="heroServiceTitle"></h3>
+      <p id="heroServiceText"></p>
+    </div>
+    <div class="hero-info-progress"><span id="heroServiceProgress"></span></div>
+  </a>
+
+  <div class="stat-strip">
+    <div class="container">
+      <div class="stat-grid">
+        <div class="stat-item reveal">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M12 2l2.5 5 5.5.8-4 3.9.9 5.5L12 14.8 7.1 17.2l.9-5.5-4-3.9L9.5 7 12 2z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>
+          <div><div class="stat-num" data-count="22" data-suffix="+">0</div><div class="stat-label" data-i18n="stat.years">лет опыта</div></div>
+        </div>
+        <div class="stat-item reveal">
+          <svg viewBox="0 0 24 24" fill="none"><circle cx="9" cy="8" r="3" stroke="currentColor" stroke-width="1.4"/><circle cx="200" cy="9" r="2.4" stroke="currentColor" stroke-width="1.4"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6M14.5 14.4c2.6.4 4.5 2.6 4.5 5.6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+          <div><div class="stat-num" data-count="200" data-suffix="+">0</div><div class="stat-label" data-i18n="stat.clients">клиентов</div></div>
+        </div>
+        <div class="stat-item reveal">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M4 21V10l4-3 4 3 4-3 4 3v11" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="M4 21h16" stroke="currentColor" stroke-width="1.4"/></svg>
+          <div><div class="stat-num" data-count="10" data-suffix="+">0</div><div class="stat-label" data-i18n="stat.industries">отраслей</div></div>
+        </div>
+        <div class="stat-item reveal">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M12 3l7 3v6c0 4.5-3 8.2-7 9-4-.8-7-4.5-7-9V6l7-3z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <div><div class="stat-num" data-count="100" data-suffix="%">0</div><div class="stat-label" data-i18n="stat.independence">независимость</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ADVANTAGES ============ -->
+<section class="section" id="advantages">
+  <div class="container">
+    <div class="section-head center reveal">
+      <div class="eyebrow" data-i18n="adv.eyebrow">Почему мы</div>
+      <h2 class="section-title" data-i18n="adv.title">Почему выбирают Amulet Audit</h2>
+      <p class="section-sub" data-i18n="adv.sub">Двадцать лет практики в аудите и консалтинге, выстроенные вокруг независимости, точности и доверия клиентов.</p>
+    </div>
+    <div class="adv-grid reveal-stagger">
+      <div class="adv-card reveal" style="--i:0">
+        <div class="adv-icon"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3l7 3v6c0 4.5-3 8.2-7 9-4-.8-7-4.5-7-9V6l7-3z" stroke="currentColor" stroke-width="1.5"/></svg></div>
+        <h3 data-i18n="adv.c1.title">Независимость</h3>
+        <p data-i18n="adv.c1.text">Объективная оценка без конфликта интересов, подтверждённая международными стандартами.</p>
+      </div>
+      <div class="adv-card reveal" style="--i:1">
+        <div class="adv-icon"><svg viewBox="0 0 24 24" fill="none"><path d="M4 19V5m0 14h16M8 15v-4m4 4V9m4 6v-7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+        <h3 data-i18n="adv.c2.title">Экспертность</h3>
+        <p data-i18n="adv.c2.text">Команда сертифицированных специалистов с опытом работы в 10+ отраслях экономики.</p>
+      </div>
+      <div class="adv-card reveal" style="--i:2">
+        <div class="adv-icon"><svg viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+        <h3 data-i18n="adv.c3.title">Конфиденциальность</h3>
+        <p data-i18n="adv.c3.text">Строгие внутренние регламенты защиты данных клиента на всех этапах сотрудничества.</p>
+      </div>
+      <div class="adv-card reveal" style="--i:3">
+        <div class="adv-icon"><svg viewBox="0 0 24 24" fill="none"><path d="M12 2v4M12 18v4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M2 12h4M18 12h4M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg></div>
+        <h3 data-i18n="adv.c4.title">Международные стандарты</h3>
+        <p data-i18n="adv.c4.text">Методология работы соответствует ISA, IFRS и лучшим мировым практикам аудита.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ SERVICES ============ -->
+<section class="section section--gray" id="services">
+  <div class="container">
+    <div class="section-head center reveal">
+      <div class="eyebrow" data-i18n="svc.eyebrow">Услуги</div>
+      <h2 class="section-title" data-i18n="svc.title">Комплексные решения для вашего бизнеса</h2>
+      <p class="section-sub" data-i18n="svc.sub">От обязательного аудита до сопровождения сделок — каждая услуга выстроена под задачи вашей отрасли.</p>
+    </div>
+    <div class="svc-grid" id="serviceGrid"><!-- filled by JS from data --></div>
+  </div>
+</section>
+
+<!-- ============ INDUSTRIES ============ -->
+<section class="section section--navy" id="industries">
+  <div class="container">
+    <div class="section-head center reveal">
+      <div class="eyebrow" data-i18n="ind.eyebrow">Отрасли</div>
+      <h2 class="section-title" data-i18n="ind.title">Опыт, применимый к вашей индустрии</h2>
+      <p class="section-sub" data-i18n="ind.sub">Мы понимаем регуляторную специфику и бизнес-модель каждой из отраслей ниже.</p>
+    </div>
+    <div class="ind-grid" id="industryGrid"></div>
+    <div class="trusted-companies reveal" id="trustedCompanies" hidden>
+      <div class="trusted-stage" id="trustedStage" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ABOUT ============ -->
+<section class="section" id="about">
+  <div class="container">
+    <div class="about-wrap">
+      <div class="about-media reveal">
+        <img src="office.png" alt="Офис Amulet Audit">
+        <div class="about-badge">
+          <strong>2004</strong>
+          <span data-i18n="about.since">год основания компании</span>
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="eyebrow" data-i18n="about.eyebrow">О компании</div>
+        <h2 class="section-title" data-i18n="about.title">Двадцать лет защищаем интересы наших клиентов</h2>
+        <p class="section-sub" data-i18n="about.text">Amulet Audit — независимая аудиторско-консалтинговая компания. Мы сопровождаем акционерные общества, государственные предприятия и крупный бизнес, выстраивая доверие через прозрачность и профессионализм.</p>
+
+        <div class="values-list">
+          <div class="value-item">
+            <span class="num">01</span>
+            <div><h4 data-i18n="about.v1.t">Миссия</h4><p data-i18n="about.v1.p">Обеспечивать достоверность финансовой информации и снижать риски для бизнеса и его партнёров.</p></div>
+          </div>
+          <div class="value-item">
+            <span class="num">02</span>
+            <div><h4 data-i18n="about.v2.t">Ценности</h4><p data-i18n="about.v2.p">Независимость, честность, профессиональный скептицизм и уважение к клиенту.</p></div>
+          </div>
+          <div class="value-item">
+            <span class="num">03</span>
+            <div><h4 data-i18n="about.v3.t">Команда</h4><p data-i18n="about.v3.p">15 специалистов в штате: 11 сертифицированных аудиторов, налоговые консультанты и профессиональные бухгалтеры.</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="partners-strip reveal">
+      <div class="partners-label" data-i18n="about.partners">Лицензии, сертификаты и партнёры</div>
+      <div class="partners-row">
+        <div class="partner-badge"><svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.5"/></svg><span data-i18n="badge.registry">Реестр аудиторских организаций МФ РУз (04.06.2021)</span></div>
+        <div class="partner-badge"><svg viewBox="0 0 24 24" fill="none"><path d="M12 2l8 4v6c0 5-3.4 8.9-8 10-4.6-1.1-8-5-8-10V6l8-4z" stroke="currentColor" stroke-width="1.5"/></svg><span data-i18n="badge.insurance">Ответственность застрахована на 3 млрд сум (полис О'zbekinvest, до 19.03.2027)</span></div>
+        <div class="partner-badge"><svg viewBox="0 0 24 24" fill="none"><rect x="3" y="4" width="18" height="16" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M3 9h18" stroke="currentColor" stroke-width="1.5"/></svg><span data-i18n="badge.naba">Член НАБА и Палаты Аудиторов</span></div>
+        <div class="partner-badge"><svg viewBox="0 0 24 24" fill="none"><path d="M4 19V5m0 14h16M8 15v-4m4 4V9m4 6v-7" stroke="currentColor" stroke-width="1.5"/></svg><span data-i18n="badge.minjust">Минюст РУз №1036 (04.10.2004)</span></div>
+      </div>
+      <div class="license-docs-row">
+        <div class="license-doc">
+          <a href="#" id="licenseOpen">
+            <img src="license.jpg" alt="Лицензия ООО «Amulet-Audit» — АФ №00792" loading="lazy">
+          </a>
+          <span class="license-doc-caption" data-i18n="license.caption">Лицензия на осуществление аудиторской деятельности АФ №00792</span>
+        </div>
+        <div class="license-doc">
+          <a href="#" id="policyOpen">
+            <img src="policy.jpg" alt="Полис страхования профессиональной ответственности — О'zbekinvest" loading="lazy">
+          </a>
+          <span class="license-doc-caption" data-i18n="policy.caption">Полис страхования профессиональной ответственности №0370335 (О'zbekinvest, до 19.03.2027)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TEAM (bugalter/auditor xodimlari) ============ -->
+<section class="section section--gray" id="team">
+  <div class="container">
+    <div class="section-head center reveal" style="max-width:720px;">
+      <div class="eyebrow" data-i18n="team.eyebrow">Наша команда</div>
+      <h2 class="section-title" data-i18n="team.title">Специалисты, которым доверяют</h2>
+      <p class="section-sub" data-i18n="team.sub">Нажмите на фото сотрудника, чтобы увидеть его квалификацию, дипломы и оформить заявку на аудит или бухгалтерское сопровождение именно у этого специалиста.</p>
+    </div>
+    <div class="team-grid" id="teamGrid"><!-- filled by JS from data --></div>
+  </div>
+</section>
+
+<!-- ============ CONTACT ============ -->
+<section class="section" id="contact">
+  <div class="container">
+    <div class="section-head center reveal">
+      <div class="eyebrow" data-i18n="contact.eyebrow">Контакты</div>
+      <h2 class="section-title" data-i18n="contact.title">Свяжитесь с нами</h2>
+      <p class="section-sub" data-i18n="contact.sub">Оставьте заявку — наш специалист свяжется с вами в течение одного рабочего дня.</p>
+    </div>
+
+    <div class="contact-wrap">
+      <div class="contact-info-card reveal">
+        <h3 data-i18n="contact.info.title">Наши контакты</h3>
+        <p data-i18n="contact.info.text">Готовы ответить на вопросы о сотрудничестве и подобрать оптимальное решение для вашей компании.</p>
+
+        <div class="contact-line">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M21 10c0 6-9 12-9 12S3 16 3 10a9 9 0 1118 0z" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div><strong data-i18n="contact.address.t">Адрес</strong><span data-i18n="contact.address.v">Республика Узбекистан, г. Ташкент, Мирабадский р-н, ул. А. С. Банокатий, 186/1</span></div>
+        </div>
+        <div class="contact-line">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M3 6h18v12H3z" stroke="currentColor" stroke-width="1.5"/><path d="M3 6l9 7 9-7" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div><strong data-i18n="contact.email.t">Email</strong><span>info@amulet-audit.uz</span></div>
+        </div>
+        <div class="contact-line">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M12 2l9 4v6c0 5-3.6 8.7-9 10-5.4-1.3-9-5-9-10V6l9-4z" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div><strong data-i18n="contact.hours.t">Режим работы</strong><span data-i18n="contact.hours.v">Пн–Пт, 09:00 — 18:00</span></div>
+        </div>
+
+        <div class="contact-socials">
+          <a href="https://t.me/ielts_cdi_mock" aria-label="Telegram"><svg viewBox="0 0 24 24" fill="none"><path d="M21 4L2.5 11.3c-.9.4-.9 1.6.1 1.9l4.5 1.4 1.7 5.2c.3.9 1.5 1.1 2 .3l2.4-3.3 4.6 3.4c.8.6 2 .2 2.2-.8L21.9 4.9c.2-.9-.7-1.6-1.5-1.2z" stroke="currentColor" stroke-width="1.4"/></svg></a>
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none"><path d="M15 8h-2c-.8 0-1.5.7-1.5 1.5V11H15l-.4 3H11.5v7h-3v-7H7v-3h1.5V9.2C8.5 6.9 9.9 5 12.5 5H15v3z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg></a>
+        </div>
+
+        <div class="questionnaire-box questionnaire-box--contact">
+          <div class="questionnaire-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M7 3h7l4 4v14H7V3zM14 3v5h5M10 12h5M10 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <div>
+            <h4 data-i18n="form.xlsx.title">Заполните анкету для точной оценки</h4>
+            <p data-i18n="form.xlsx.info">Скачайте Excel-анкету, ответьте на вопросы и прикрепите заполненный файл. Это поможет нам заранее определить направление, объём работ и подготовить предложение по стоимости.</p>
+            <a class="questionnaire-download" href="Amulet_Audit_anketa.xlsx" download data-i18n="form.xlsx.download">Скачать Excel-анкету</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-card reveal">
+        <div class="form-success" id="formSuccess">
+          <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/><path d="M8.5 12.5l2.3 2.3 4.7-5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span data-i18n="form.success">Заявка отправлена! Мы свяжемся с вами в ближайшее время.</span>
+        </div>
+
+        <form id="contactForm" novalidate>
+          <div class="form-row">
+            <div class="field" data-field="name">
+              <label for="f-name" data-i18n="form.name">Имя</label>
+              <input id="f-name" name="name" type="text" placeholder="Иван Иванов" data-i18n-ph="form.name.ph">
+              <div class="field-error" data-i18n="form.error.required">Заполните это поле</div>
+            </div>
+            <div class="field" data-field="phone">
+              <label for="f-phone" data-i18n="form.phone">Телефон</label>
+              <input id="f-phone" name="phone" type="tel" placeholder="+998 90 123 45 67">
+              <div class="field-error" data-i18n="form.error.phone">Введите корректный номер телефона</div>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field" data-field="email">
+              <label for="f-email" data-i18n="form.email">Email</label>
+              <input id="f-email" name="email" type="email" placeholder="you@company.com">
+              <div class="field-error" data-i18n="form.error.email">Введите корректный email</div>
+            </div>
+            <div class="field" data-field="service">
+              <label for="f-service" data-i18n="form.service">Интересующая услуга</label>
+              <select id="f-service" name="service">
+                <option value="" data-i18n="form.service.ph">Выберите услугу</option>
+                <option value="audit" data-i18n="svc.s1.title">Аудиторские услуги</option>
+                <option value="ifrs" data-i18n="svc.s2.title">Трансформация в соответствии с МСФО</option>
+                <option value="accounting" data-i18n="svc.s3.title">Бухгалтерский консалтинг</option>
+                <option value="tax" data-i18n="svc.s4.title">Налоговый консалтинг</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field" data-field="specialist">
+              <label for="f-specialist" data-i18n="form.specialist">Специалист (по желанию)</label>
+              <select id="f-specialist" name="specialist">
+                <!-- filled by JS from TEAM data, so it stays in sync with the team list and translations -->
+              </select>
+            </div>
+          </div>
+          <div class="field" data-field="message">
+            <label for="f-message" data-i18n="form.message">Сообщение</label>
+            <textarea id="f-message" name="message" placeholder=""></textarea>
+          </div>
+          <div class="field file-field" data-field="questionnaire">
+            <label for="f-questionnaire" class="file-drop" id="questionnaireDrop">
+              <input id="f-questionnaire" name="questionnaire" type="file" accept=".xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" required>
+              <span class="file-plus" aria-hidden="true">+</span>
+              <strong data-i18n="form.xlsx.attach">Заполненную анкету прикрепите здесь</strong>
+              <small data-i18n="form.xlsx.only">Только безопасный файл .xlsx, до 10 МБ</small>
+              <em id="questionnaireName" data-i18n="form.xlsx.empty">Файл не выбран</em>
+            </label>
+            <div class="field-error" data-i18n="form.error.xlsx">Прикрепите заполненный файл .xlsx</div>
+          </div>
+          <button type="submit" class="btn btn-gold btn-block" id="formSubmit">
+            <span data-i18n="form.submit">Отправить заявку</span>
+          </button>
+          <p class="form-note" data-i18n="form.note">Отправляя форму, вы соглашаетесь с политикой конфиденциальности и обработкой персональных данных.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="brand">
+          <img src="logo01.png" alt="Amulet Audit" class="brand-mark">
+        </div>
+        <p data-i18n="footer.about">Независимый аудит, управление рисками и консалтинг для устойчивого развития вашего бизнеса.</p>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.company">Компания</h4>
+        <ul>
+          <li><a href="#about" data-i18n="nav.about">О компании</a></li>
+          <li><a href="#team" data-i18n="nav.team">Наша команда</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.services">Услуги</h4>
+        <ul id="footerServices"></ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.contacts">Контакты</h4>
+        <ul>
+          <li>info@amulet-audit.uz</li>
+          <li data-i18n="contact.address.v">Республика Узбекистан, г. Ташкент, Мирабадский р-н, ул. А. С. Банокатий, 186/1</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span id="year"></span> Amulet Audit. <span data-i18n="footer.rights">Все права защищены.</span></span>
+      <span data-i18n="footer.tagline">Создано компанией PrimeBond</span>
+    </div>
+  </div>
+</footer>
+
+<button class="back-to-top" id="backToTop" aria-label="Наверх">
+  <svg viewBox="0 0 24 24" fill="none"><path d="M12 19V5M5 12l7-7 7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</button>
+
+<!-- ============ SERVICE MODAL ============ -->
+<div class="modal-overlay" id="serviceModal">
+  <div class="modal-box">
+    <button class="modal-close" data-close-modal="serviceModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <div class="modal-eyebrow" data-i18n="modal.eyebrow">Услуга</div>
+    <h3 id="modalTitle"></h3>
+    <p id="modalDesc" style="color:var(--ink-muted-dark); font-size:14.5px;"></p>
+    <div class="modal-section">
+      <h4 data-i18n="modal.steps">Этапы работы</h4>
+      <ul class="modal-steps" id="modalSteps"></ul>
+    </div>
+    <div class="modal-section">
+      <h4 data-i18n="modal.result">Результат для клиента</h4>
+      <p id="modalResult" style="font-size:14px; color:var(--ink-muted-dark);"></p>
+    </div>
+    <div class="modal-section modal-faq" id="modalFaq">
+      <h4>FAQ</h4>
+    </div>
+    <div class="modal-section">
+      <a href="#contact" class="btn btn-gold btn-block" id="modalCta" data-i18n="modal.cta">Оставить заявку</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============ TEAM MEMBER MODAL ============ -->
+<div class="modal-overlay" id="teamModal">
+  <div class="modal-box">
+    <button class="modal-close" data-close-modal="teamModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <div class="modal-eyebrow" data-i18n="team.modal.eyebrow">Сотрудник</div>
+
+    <div class="team-modal-head">
+      <div class="team-modal-photo"><img id="teamModalPhoto" src="" alt=""></div>
+      <div class="team-modal-info">
+        <h3 id="teamModalName"></h3>
+        <div class="team-modal-role" id="teamModalRole"></div>
+        <div class="team-bio-wrap">
+          <p class="team-modal-bio is-collapsed" id="teamModalBio"></p>
+          <button type="button" class="team-bio-toggle" id="teamBioToggle" data-i18n="team.modal.bioMore">Полная информация</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal-section">
+      <h4 data-i18n="team.modal.certs">Квалификация и сертификаты</h4>
+      <div class="cert-list" id="teamModalCerts"></div>
+    </div>
+
+    <div class="modal-section">
+      <h4 data-i18n="team.modal.docs">Подтверждающие документы</h4>
+      <div class="doc-thumb-grid" id="teamModalDocs"></div>
+    </div>
+
+    <div class="modal-section">
+      <a href="#contact" class="btn btn-gold btn-block" id="teamModalCta" data-i18n="team.modal.cta">Оставить заявку этому специалисту</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============ INDUSTRY MODAL (Отрасли -> клиенты) ============ -->
+<div class="modal-overlay" id="industryModal">
+  <div class="modal-box">
+    <button class="modal-close" data-close-modal="industryModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <div class="modal-eyebrow" data-i18n="ind.modal.eyebrow">Отрасль</div>
+    <h3 id="industryModalTitle"></h3>
+    <p id="industryModalCount" class="ind-modal-count"></p>
+    <div class="modal-section">
+      <div class="ind-modal-table-wrap">
+        <table class="ind-modal-table">
+          <thead id="industryModalHead">
+            <tr><th data-i18n="ind.modal.company">Компания</th><th data-i18n="ind.modal.year">Год</th></tr>
+          </thead>
+          <tbody id="industryModalList"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="modal-section">
+      <a href="#contact" class="btn btn-gold btn-block" data-i18n="ind.modal.cta">Обсудить сотрудничество</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============ OTHER INDUSTRIES MODAL ============ -->
+<div class="modal-overlay" id="otherIndustriesModal">
+  <div class="modal-box other-industries-modal-box">
+    <button class="modal-close" data-close-modal="otherIndustriesModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <div class="modal-eyebrow" data-i18n="ind.modal.eyebrow">Отрасль</div>
+    <h3 id="otherIndustriesTitle"></h3>
+    <p id="otherIndustriesNote" class="ind-modal-count"></p>
+    <div class="other-industries-list" id="otherIndustriesList"></div>
+  </div>
+</div>
+
+<!-- ============ GENERIC DOCUMENT IMAGE VIEWER ============ -->
+<div class="modal-overlay" id="docViewerModal">
+  <div class="modal-box license-modal-box">
+    <button class="modal-close" data-close-modal="docViewerModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <img id="docViewerImg" src="" alt="" style="width:100%;border-radius:8px;">
+  </div>
+</div>
+
+<!-- ============ LICENSE IMAGE MODAL ============ -->
+<div class="modal-overlay" id="licenseModal">
+  <div class="modal-box license-modal-box">
+    <button class="modal-close" data-close-modal="licenseModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <img src="license.jpg" alt="Лицензия ООО «Amulet-Audit» — АФ №00792" style="width:100%;border-radius:8px;">
+  </div>
+</div>
+
+<!-- ============ POLICY IMAGE MODAL ============ -->
+<div class="modal-overlay" id="policyModal">
+  <div class="modal-box license-modal-box">
+    <button class="modal-close" data-close-modal="policyModal"><svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    <img src="policy.jpg" alt="Полис страхования профессиональной ответственности" style="width:100%;border-radius:8px;">
+  </div>
+</div>
+
+<div class="toast-region" id="toastRegion"></div>
+
+<script src="config.js?v=1"></script>
+<script src="script.js?v=18"></script>
+</body>
+</html>
